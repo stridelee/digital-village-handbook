@@ -1,2 +1,10 @@
-# digital-village-handbook
-A digital knowledge base for rural revitalization in ZhouCheng village, Dali, Yunnan.
+# 乡村数字化实践知识库
+
+以云南大理喜洲镇周城村为案例，探索文创产业、集体经济和数字游民的融合发展路径。
+
+## 目录
+
+- [周城村案例](#)
+- [扎染品牌孵化](#)
+- [数字游民地图](#)
+- [集体经济分析](#)
